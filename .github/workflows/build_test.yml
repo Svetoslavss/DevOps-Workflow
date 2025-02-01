@@ -38,4 +38,4 @@ jobs:
     - name: Install app dependencies
       run: npm install
     - name: Run security tests
-      run: npm run audit
+      run: npm audit
