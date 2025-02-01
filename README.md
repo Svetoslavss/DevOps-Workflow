@@ -1,4 +1,4 @@
-<h1 size= 10px> DevOps CI/CD Workflow </h1>
+<h1 size= 10px> :blue_heart:DevOps CI/CD Workflow </h1>
 
 <p># Overview:</p>
 This repository includes Software university task to create a CI/CD pipeline that automates the following stages:
